@@ -6,7 +6,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **depthwall-website**
 - 🌱 I’m currently learning **DSA in C++**
 - 📫 How to reach me **ajwadode25@gmail.com**
 - ⚡ Fun fact: **🎓 I'm currently pursuing my MCA with a specialization in AI/ML—but still have to explain to relatives I don’t build robots (yet)**
