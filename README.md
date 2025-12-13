@@ -1,4 +1,4 @@
-<h3 align="center">An aspiring AI/ML engineer and full stack developer from India 🇮🇳</h3>
+<h3 align="center">An Aspiring AI/ML Engineer and Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
